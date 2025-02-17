@@ -7,3 +7,4 @@
 - [ ] Projects
 - [ ] Contact
 - [ ] "Chat With Me" Bot
+- [ ] Debug Favicon Icon
